@@ -1,0 +1,17 @@
+.design1{
+	border-width: 1px;
+	outline-style: solid;
+	outline-color: black;
+	outline-width: 6px;
+}
+.design2{
+	border-width: 1px;
+	outline-style: solid;
+	outline-color: black;
+	outline-width: 3px;
+}
+.design3{
+	border-color: black;
+	 border-width: 1px; 
+	 border-style: solid;
+}

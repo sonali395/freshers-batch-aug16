@@ -1,0 +1,15 @@
+div {
+    width: 110px;
+    height: 70px;
+    background: #009933;
+    transition: width 3s;
+    overflow: hidden;
+}
+div:hover{
+	width:300px;
+	height:140px;
+
+}
+h2{
+	color: white;
+}

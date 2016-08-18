@@ -1,0 +1,31 @@
+
+a:link{
+	color: white;
+}
+a:hover{
+	color: white;
+}
+a.link:hover{
+	font-size: 150%;
+	transition: 2s;
+
+}
+td{
+	 height:50px ;
+	 width:500px;
+}
+div{
+	background-color:#b30047;
+	width: 1150px;
+	height:180px;
+	font-size: 12;
+	color: white;
+	padding-top: 20px;
+	padding-left: 20px;
+
+}
+div.about {
+    opacity: 0.5;}
+
+div.about:hover {
+    opacity: 1.0;}
